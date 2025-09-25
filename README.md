@@ -149,11 +149,14 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 If you use **V-GameGym** in your research, please cite:  
 
 ```bibtex
-@article{skylenage2025gamecodegym,
-  title={SKYLENAGE-GameCodeGym: A Multimodal Benchmark for Game Code Generation},
-  author={Alibaba Group et al.},
-  journal={arXiv preprint arXiv:2509.20136},
-  year={2025}
+@misc{zhang2025vgamegymvisualgamegeneration,
+  title     = {V-GameGym: Visual Game Generation for Code Large Language Models}, 
+  author    = {Wei Zhang and Jack Yang and Renshuai Tao and Lingzheng Chai and Shawn Guo and Jiajun Wu and Xiaoming Chen and Ganqu Cui and Ning Ding and Xander Xu and Hu Wei and Bowen Zhou},
+  year      = {2025},
+  eprint    = {2509.20136},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SE},
+  url       = {https://arxiv.org/abs/2509.20136}
 }
 ```
 
