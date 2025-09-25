@@ -90,17 +90,18 @@ python screenshot_recorder.py --game-file game.py --duration 10 --fps 5
 
 ## 🎯 Testset
 
-The official testset (`gamegym_testset/gamegym_testset.jsonl`) contains **diverse game categories**:  
-- **Puzzle Games**: Sliding puzzles, Tetris-style games  
-- **Action Games**: Frogger-like crossing, dodge games  
-- **Sports Games**: Pong-style paddle games  
-- **Arcade Games**: Classic arcade-style mini-games  
+The project includes a comprehensive testset (`gamegym_testset/gamegym_testset.jsonl`) with diverse game examples:
 
-Each test case provides:  
-- Natural language requirements  
-- Generated Python code  
-- Execution results & metadata  
-- Screenshots and gameplay videos  
+- **Puzzle Games**: Sliding puzzle, Tetris-style games
+- **Action Games**: Frogger-like crossing games, dodge games
+- **Sports Games**: Pong-style paddle games
+- **Arcade Games**: Various classic arcade game implementations
+
+Each test case includes:
+- Game requirements description
+- Generated Python code
+- Execution results and metadata
+- Screenshots and gameplay videos
 
 ---
 
@@ -120,13 +121,6 @@ Each test case provides:
 
 ---
 
-## 📊 Leaderboard
-
-Track the latest model performance on V-GameGym:  
-👉 [Skylenage Evaluation Leaderboard](https://skylenage.alibaba-inc.com/sla/evaluation/detail?id=DGaiV8tvkBSZSqUHzdu8AA)  
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please:  
@@ -140,7 +134,7 @@ We welcome contributions! Please:
 
 ## 📄 License
 
-This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+This project is released under the **Apache License 2.0 License**. See the [LICENSE](LICENSE) file for details.  
 
 ---
 
