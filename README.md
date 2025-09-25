@@ -1,7 +1,7 @@
 [![Home](https://img.shields.io/badge/Homepage-🏠-blue.svg)](https://v-gamegym.github.io/index.html)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-🏆-brightgreen.svg)](https://v-gamegym.github.io/leaderboard.html)
 [![Paper](https://img.shields.io/badge/Paper-📄-b31b1b.svg)](https://arxiv.org/abs/2509.20136) 
-[![Code](https://img.shields.io/badge/Code-💻-black.svg)]([https://github.com/v-gamegym](https://github.com/alibaba/SKYLENAGE-GameCodeGym/)) 
+[![Code](https://img.shields.io/badge/Code-💻-black.svg)](https://github.com/alibaba/SKYLENAGE-GameCodeGym/) 
 
 [![Dataset-HF](https://img.shields.io/badge/Data-Huggingface-orange.svg)](https://huggingface.co/datasets/alibabagroup/SKYLENAGE-GameCodeGym) 
 [![Dataset-ModelScope](https://img.shields.io/badge/Data-ModelScope-green.svg)](https://modelscope.cn/datasets/Alibaba-DT/SKYLENAGE-GameCodeGym) 
