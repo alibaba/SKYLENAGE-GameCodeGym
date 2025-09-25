@@ -1,9 +1,9 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2509.20136-b31b1b.svg)](https://arxiv.org/abs/2509.20136) 
-[![Leaderboard](https://img.shields.io/badge/Leaderboard-Skylenage_Platform-blue.svg)](https://skylenage.alibaba-inc.com/sla/evaluation/detail?id=DGaiV8tvkBSZSqUHzdu8AA) 
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-SKYLENAGE-blue.svg)](https://skylenage.alibaba-inc.com/sla/evaluation/detail?id=DGaiV8tvkBSZSqUHzdu8AA) 
 [![Dataset-HF](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/alibabagroup/SKYLENAGE-GameCodeGym) 
 [![Dataset-ModelScope](https://img.shields.io/badge/Dataset-ModelScope-green.svg)](https://modelscope.cn/datasets/Alibaba-DT/SKYLENAGE-GameCodeGym) 
 
-# 🎮 SKYLENAGE-GameCodeGym (V-GameGym)
+# 🎮 SKYLENAGE-GameCodeGym
 
 **SKYLENAGE-GameCodeGym (V-GameGym)** is an open-source benchmark designed to evaluate and measure the capabilities of Large Language Models (LLMs) in generating **functional, playable, and visually rich games** with the Pygame library.  
 The framework provides a complete pipeline for **automatic game generation, execution, evaluation, and gameplay recording**, bridging the gap between code generation accuracy and real-world game development workflows.  
