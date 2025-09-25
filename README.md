@@ -5,7 +5,7 @@
 
 [![Dataset-HF](https://img.shields.io/badge/Data-Huggingface-orange.svg)](https://huggingface.co/datasets/alibabagroup/SKYLENAGE-GameCodeGym) 
 [![Dataset-ModelScope](https://img.shields.io/badge/Data-ModelScope-green.svg)](https://modelscope.cn/datasets/Alibaba-DT/SKYLENAGE-GameCodeGym) 
-[![Platform](https://img.shields.io/badge/Platform-SKYLENAGE-blue.svg)](https://skylenage.alibaba-inc.com/sla/evaluation/detail?id=DGaiV8tvkBSZSqUHzdu8AA) 
+[![Platform](https://img.shields.io/badge/Platform-SKYLENAGE-blue.svg)](https://skylenage.alibaba-inc.com/sla/home) 
 
 # 🎮 SKYLENAGE-GameCodeGym
 
