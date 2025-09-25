@@ -2,6 +2,9 @@
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-SKYLENAGE-blue.svg)](https://skylenage.alibaba-inc.com/sla/evaluation/detail?id=DGaiV8tvkBSZSqUHzdu8AA) 
 [![Dataset-HF](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/alibabagroup/SKYLENAGE-GameCodeGym) 
 [![Dataset-ModelScope](https://img.shields.io/badge/Dataset-ModelScope-green.svg)](https://modelscope.cn/datasets/Alibaba-DT/SKYLENAGE-GameCodeGym) 
+[![Project Page](https://img.shields.io/badge/Project%20Page-🏠-blue.svg)](https://v-gamegym.github.io/index.html)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-🏆-brightgreen.svg)](https://v-gamegym.github.io/leaderboard.html)
+
 
 # 🎮 SKYLENAGE-GameCodeGym
 
