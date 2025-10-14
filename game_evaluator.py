@@ -118,8 +118,11 @@ class GameEvaluator:
     def load_game_codes(self) -> List[Dict]:
         games = []
         with open(self.config.code_path, 'r') as f:
-            for line in f:
-                games.append(json.loads(line))
+            for idx, line in enumerate(f):
+                game_data = json.loads(line)
+                if 'game_id' not in game_data:
+                    game_data['game_id'] = idx
+                games.append(game_data)
         return games
     
     def encode_image_to_base64(self, image_path: Path) -> str:
